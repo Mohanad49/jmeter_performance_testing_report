@@ -1,0 +1,9 @@
+make,model,year,mileage,engine_size,transmission,fuel_type
+Toyota,Corolla,2020,65000,1.6,automatic,petrol
+Honda,Civic,2019,82000,1.8,automatic,petrol
+BMW,320i,2021,42000,2.0,automatic,petrol
+Mercedes,C200,2022,36000,2.0,automatic,hybrid
+Hyundai,Elantra,2018,96000,1.6,manual,petrol
+Kia,Sportage,2020,70000,2.0,automatic,diesel
+Ford,Focus,2017,120000,1.5,manual,petrol
+Chevrolet,Cruze,2016,140000,1.6,automatic,petrol
