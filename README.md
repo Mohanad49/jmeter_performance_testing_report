@@ -1,4 +1,5 @@
 # JMeter Performance Testing Report
+[![API Tests](https://github.com/Mohanad49/jmeter_performance_testing_report/actions/workflows/api-tests.yml/badge.svg)](https://github.com/Mohanad49/jmeter_performance_testing_report/actions/workflows/api-tests.yml)
 
 This repo implements the third project from the resume: **JMeter Performance Testing Report | Apache JMeter, Streamlit, Python**.
 
